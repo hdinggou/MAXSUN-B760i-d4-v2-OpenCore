@@ -1,4 +1,4 @@
-# 铭瑄-终结者 B760ITX D4 V2 WIFI 黑苹果 OpenCore EFI
+# 铭瑄-终结者 B760ITX D4 V2 WIFI 黑苹果 OpenCore EFI （详看Releases）
 
 
 ## macOS
